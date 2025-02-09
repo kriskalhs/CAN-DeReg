@@ -1,0 +1,11 @@
+# Ignore environment variables
+.env
+
+# Ignore data files
+data/raw/
+data/processed/
+
+# Ignore Python-related files
+__pycache__/
+*.pyc
+*.pyo
